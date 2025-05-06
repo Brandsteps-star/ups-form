@@ -459,7 +459,7 @@ const UPSBusinessCardForm = () => {
                 <h1 className="text-3xl font-bold text-brown-900">The UPS Store</h1>
                 <p className="text-brown-800 font-medium text-lg">Professional Business Cards</p>
               </div>
-              <div className="bg-brown-900 text-yellow-400 py-2 px-4 rounded-lg font-bold transform rotate-3 shadow-lg border-2 border-white animate-pulse">
+              <div className="bg-[#3c280d] text-gray-400 py-2 px-4 rounded-lg font-bold transform rotate-3 shadow-lg border-2 border-white animate-pulse">
               <span className="text-lg text-white">FREE 10 CARDS</span>
               </div>
             </div>
