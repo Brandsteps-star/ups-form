@@ -460,7 +460,7 @@ const UPSBusinessCardForm = () => {
                 <p className="text-brown-800 font-medium text-lg">Professional Business Cards</p>
               </div>
               <div className="bg-brown-900 text-yellow-400 py-2 px-4 rounded-lg font-bold transform rotate-3 shadow-lg border-2 border-white animate-pulse">
-              <span className="text-lg">FREE 10 CARDS</span>
+              <span className="text-lg text-white">FREE 10 CARDS</span>
               </div>
             </div>
             <p className="text-brown-800 mt-4 max-w-lg relative">
